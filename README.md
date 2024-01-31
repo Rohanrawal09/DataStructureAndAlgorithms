@@ -12,7 +12,7 @@ Welcome to the **Data Structures and Algorithms Solutions** repository! This rep
 ## Introduction ⭐
 In the world of computer science and software development, mastering data structures and algorithms is crucial. This repository aims to provide clear, concise, and efficient solutions to a variety of problems related to data structures and algorithms. Whether you are a beginner looking to enhance your coding skills or an experienced developer preparing for technical interviews, this repository is a valuable resource.
 
-## Folder Structure ⭐ ⭐
+## Folder Structure ⭐ 
 The repository is organized into different folders, each dedicated to a specific data structure or algorithm. The structure is designed to make it easy for contributors and users to navigate and find relevant content. The current folder structure is as follows:
 - DataStructureAndAlgorithms/StringProblems
 - DataStructureAndAlgorithms/ArraysProblems
@@ -21,7 +21,7 @@ The repository is organized into different folders, each dedicated to a specific
 - Trees
 Feel free to contribute additional folders and solutions following the existing structure.
 
-## Contribution Guidelines ⭐ ⭐ ⭐
+## Contribution Guidelines ⭐
 Contributions are welcome! If you have a solution to a problem or want to improve an existing one, follow these guidelines:
 
 - Fork the repository.
@@ -31,13 +31,13 @@ Contributions are welcome! If you have a solution to a problem or want to improv
 - Test your solution with relevant test cases.
 - Submit a pull request.
 
-## How to Use ⭐ ⭐ ⭐ ⭐
+## How to Use ⭐
 To use this repository, you can either clone it to your local machine or simply browse the solutions online. Each folder contains a README.md file with an explanation of the problem and the solution. The code is provided in various programming languages, allowing you to choose the language you are most comfortable with.
 
-## Acknowledgments ⭐ ⭐ ⭐ ⭐ ⭐
+## Acknowledgments ⭐
 A big thank you to all contributors who have helped make this repository a valuable resource for the programming community.
 
-## License ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
+## License ⭐
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 Happy coding!
