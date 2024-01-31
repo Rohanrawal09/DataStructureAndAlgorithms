@@ -41,3 +41,5 @@ A big thank you to all contributors who have helped make this repository a valua
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 Happy coding!
+
+Hover over this text to see the explanation: <abbr title="This is the explanation">Hover Text</abbr>.
