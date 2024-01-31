@@ -21,4 +21,7 @@ The repository is organized into different folders, each dedicated to a specific
 - Trees
 
 
-[Link Text](www.google.com)
+1. [Introduction](#introduction)
+2. [Folder Structure](#folderstructure)
+3. [Table of Contents](#tableofcontent)
+
