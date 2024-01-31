@@ -14,3 +14,8 @@ In the world of computer science and software development, mastering data struct
 
 ## Folder Structure
 The repository is organized into different folders, each dedicated to a specific data structure or algorithm. The structure is designed to make it easy for contributors and users to navigate and find relevant content. The current folder structure is as follows:
+- Strings
+- Arrays
+- Linked List
+- Hash Map
+- Trees
